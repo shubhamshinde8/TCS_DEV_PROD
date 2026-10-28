@@ -1,0 +1,4 @@
+In our day to day activity we are performing operaqtion like installation of open source software on linux and windows server. 
+The user raise RFC for thire required software which is opensource, after that we send this request to the software group then software group person shared software with us, after taking software from the software team we don installation on server . 
+
+
